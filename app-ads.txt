@@ -2619,3 +2619,8 @@ sharethrough.com, ftvct81v, RESELLER
 pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 bold-win.com, 165, RESELLER, 71746737d0bab951
 lacunads.com, lcb555b3bc8667a09a, RESELLER
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
