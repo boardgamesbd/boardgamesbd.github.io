@@ -2627,3 +2627,6 @@ ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 themediagrid.com, FALINO, RESELLER, 9fac4a4a87c2a44f
 media.net, 8CU675N41, RESELLER
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
+bluexad.ai, 1996418805747683328, RESELLER
