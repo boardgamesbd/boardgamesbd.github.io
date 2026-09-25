@@ -3194,3 +3194,6 @@ vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 vidoomy.com, 8953515, RESELLER
 zetaglobal.net, 525, RESELLER
+metup.it, AJxF6R648a9M6CaTvK, RESELLER
+bidease.com, bidease_seller_19, RESELLER
+spinx.biz, 1373698900, RESELLER
